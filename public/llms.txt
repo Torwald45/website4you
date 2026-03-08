@@ -1,0 +1,6 @@
+# Website4You
+
+> Open source web development for Australian businesses. Websites, servers, SEO and custom software built on tools you own and control.
+
+## Main pages
+- [Home](https://website4you.com.au/): Open source web development services - websites, servers, SEO, custom software
